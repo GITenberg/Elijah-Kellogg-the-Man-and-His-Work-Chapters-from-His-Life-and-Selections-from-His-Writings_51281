@@ -1,0 +1,27 @@
+_repo: Elijah-Kellogg-the-Man-and-His-Work-Chapters-from-His-Life-and-Selections-from-His-Writings_51281
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Mitchell, Wilmot Brookings
+    birthdate: 1867
+    deathdate: 1962
+    gutenberg_agent_id: '46342'
+    url: http://www.gutenberg.org/2009/agents/46342
+description: ''
+gutenberg_issued: '2016-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kellogg, Elijah, 1813-1901'
+- !lcsh 'Congregational churches -- Clergy -- Biography'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcc 'PS'
+- GITenberg
+title: "Elijah Kellogg, the Man and His Work\r\nChapters from His Life and Selections\
+  \ from His Writings"
+url: http://www.gutenberg.org/ebooks/51281
