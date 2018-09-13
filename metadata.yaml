@@ -1,5 +1,8 @@
 _repo: Elijah-Kellogg-the-Man-and-His-Work-Chapters-from-His-Life-and-Selections-from-His-Writings_51281
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51281-h/images/cover.jpg
 creator:
   editor:
     agent_name: Mitchell, Wilmot Brookings
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46342'
     url: http://www.gutenberg.org/2009/agents/46342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51281#Elijah-Kellogg-the-Man-and-His-Work-Chapters-from-His-Life-and-Selections-from-His-Writings
 gutenberg_issued: '2016-02-22'
 gutenberg_type: Text
 identifiers:
